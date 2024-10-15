@@ -1,0 +1,14 @@
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/hello
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/hello.deps.json
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/hello.dll
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/hello.pdb
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.dll
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/refint/hello.dll
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.pdb
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/ref/hello.dll
