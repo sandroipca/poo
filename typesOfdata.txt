@@ -1,0 +1,11 @@
+One of first thing which we learn when we beeging studying softwere development is topic about "WHAT IS VRARIABLE AND WHAT ARE THEM?"
+Basicaly, a varible may defyned as one space alocated into memmory Ran. But what's means that?
+you understand what is space alocated into memmory, what up the memmory Ran as building. Into this building theare households, each one them have
+a floor, a number, a quantite of people per house. In memmory is similar. You will have to hoold with different data types while you be make a software,
+that datas will be at any space, this space is the memory - in this momente i talk just Ran memory. 
+We create a exemple:
+I need create a software which get two values and sum them, for exemple "A" and "B". We alredy know that datas must be storged into memmory, but 
+how do i find them after?
+
+Before, i goint to draw the generic memmory struct:
+
