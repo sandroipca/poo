@@ -12,3 +12,8 @@
 /home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.pdb
 /home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
 /home/hulk/dev/ipca/hello/obj/Debug/net8.0/ref/hello.dll
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.sourcelink.json
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/MyLibrary.dll
+/home/hulk/dev/ipca/hello/bin/Debug/net8.0/MyLibrary.pdb
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.csproj.AssemblyReference.cache
+/home/hulk/dev/ipca/hello/obj/Debug/net8.0/hello.csproj.Up2Date
